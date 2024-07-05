@@ -33,7 +33,7 @@
 <div align="center">
   <img src="Assets/HomePage.png" width="200">
 </div>
- <p>
+ <p align="center">
    The home page is where the
    user will see all the available
    features of the MapuaCash
@@ -46,7 +46,7 @@
 <div align="center">
   <img src="Assets/CashIn.png" width="200">
 </div>
- <p>
+ <p align="center">
   The Cash In page shows
   different ways the user can
   Cash In for their MapuaCash
@@ -58,7 +58,7 @@
 <div align="center">
   <img src="Assets/SendCash.png" width="200">
 </div>
- <p>
+ <p align="center">
    The Send Cash Page works like
    any online cash transfers.
    Users input the username of
@@ -69,7 +69,7 @@
 <div align="center">
   <img src="Assets/TuitionBal.png" width="200">
 </div>
- <p>
+ <p align="center">
   The Tuition Balance Page is
   where the user, more
   specifically the students will
@@ -81,7 +81,7 @@
 <div align="center">
   <img src="Assets/Discount.png" width="200">
 </div>
- <p>
+ <p align="center">
   The discount and coupons
   page is a page for ongoing
   discounts and possible
@@ -93,7 +93,7 @@
 <div align="center">
   <img src="Assets/Food Stalls.png" width="200">
 </div>
- <p>
+ <p align="center">
    The food stalls page is where
   you can see the available food
   stalls in your Mapua campus
@@ -105,7 +105,7 @@
 <div align="center">
   <img src="Assets/Transaction.png" width="200">
 </div>
- <p>
+ <p align="center">
    The transactions page serves
    as a way for users to keep
    track of their spendings using

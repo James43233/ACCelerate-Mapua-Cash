@@ -19,8 +19,9 @@
 <h1 align="center"> User-Interface and Instructions </h1>
 
 <h3 align="center"> Log In</h3>
- <img src="Assets/LogIn.png" width="200" align="center">
- <p>
+
+ <p align="center">
+  <img src="Assets/LogIn.png" width="200">
    This is the opening page of the
    application. Users are required
    to input their Mapua-provided

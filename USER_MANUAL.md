@@ -1,6 +1,5 @@
 <h1 align="center"> Introduction </h1>
-<div style="text-align: justify;">
-  <p align="center">
+ <p align="center">
     MapuaCash stands out as an intuitive financial management tool catered specifically to
     Mapúa University students across all campuses. Its standout feature lies in its seamless 
     integration with the university's billing systems, allowing for effortless handling of 
@@ -15,7 +14,7 @@
     functionalities enable students to confidently manage their school finances and achieve 
     academic and personal success while attending Mapúa University.
   </p>
-</div>
+
 <br>
 <h1 align="center"> User-Interface and Instructions </h1>
 

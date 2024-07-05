@@ -19,6 +19,7 @@
 <h1 align="center"> User-Interface and Instructions </h1>
 
 <h3 align="center"> Log In</h3>
+ <img src="Assets/LogIn.png" width="200">
  <p>
    This is the opening page of the
    application. Users are required

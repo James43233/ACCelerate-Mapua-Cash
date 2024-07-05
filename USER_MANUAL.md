@@ -30,6 +30,9 @@
    the MapuaCash application.
  </p>
 <h3 align="center"> Home Page</h3>
+<div align="center">
+  <img src="Assets/HomePage.png" width="200">
+</div>
  <p>
    The home page is where the
    user will see all the available
@@ -40,6 +43,9 @@
    for easier transaction.
  </p>
 <h3 align="center"> Cash In Page</h3>
+<div align="center">
+  <img src="Assets/CashIn.png" width="200">
+</div>
  <p>
   The Cash In page shows
   different ways the user can
@@ -49,6 +55,9 @@
   options available.
  </p>
 <h3 align="center"> Send Cash Page</h3>
+<div align="center">
+  <img src="Assets/SendCash.png" width="200">
+</div>
  <p>
    The Send Cash Page works like
    any online cash transfers.
@@ -57,6 +66,9 @@
    to send the money to.
  </p>
 <h3 align="center"> Tuition Balance Page</h3>
+<div align="center">
+  <img src="Assets/TuitionBal.png" width="200">
+</div>
  <p>
   The Tuition Balance Page is
   where the user, more
@@ -66,6 +78,9 @@
 
  </p>
 <h3 align="center"> Discount and Coupons Page</h3>
+<div align="center">
+  <img src="Assets/Discount.png" width="200">
+</div>
  <p>
   The discount and coupons
   page is a page for ongoing
@@ -75,6 +90,9 @@
   Mapua campus
  </p>
 <h3 align="center"> Food Stall Page</h3>
+<div align="center">
+  <img src="Assets/Food Stall.png" width="200">
+</div>
  <p>
    The food stalls page is where
   you can see the available food
@@ -84,6 +102,9 @@
   food.
  </p>
 <h3 align="center"> Transaction Page</h3>
+<div align="center">
+  <img src="Assets/Transaction.png" width="200">
+</div>
  <p>
    The transactions page serves
    as a way for users to keep

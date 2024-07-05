@@ -18,8 +18,72 @@
 <br>
 <h1 align="center"> User-Interface and Instructions </h1>
 
-<div align="center">
-  <img src="Assets/proto1.png" width="450">
-  <img src="Assets/proto2.png" width="450">
-  <img src="Assets/proto3.png" width="450">
-</div>
+<h3 align="center"> Log In</h3>
+ <p>
+   This is the opening page of the
+   application. Users are required
+   to input their Mapua-provided
+   credentials to have access to
+   the MapuaCash application.
+ </p>
+<h3 align="center"> Home Page</h3>
+ <p>
+   The home page is where the
+   user will see all the available
+   features of the MapuaCash
+   application. At the bottom
+   center there is also the option
+   of a Payment through QR scan
+   for easier transaction.
+ </p>
+<h3 align="center"> Cash In Page</h3>
+ <p>
+  The Cash In page shows
+  different ways the user can
+  Cash In for their MapuaCash
+  account. There is the over the
+  counter and the bank transfer
+  options available.
+ </p>
+<h3 align="center"> Send Cash Page</h3>
+ <p>
+   The Send Cash Page works like
+   any online cash transfers.
+   Users input the username of
+   the person/treasury they want
+   to send the money to.
+ </p>
+<h3 align="center"> Tuition Balance Page</h3>
+ <p>
+  The Tuition Balance Page is
+  where the user, more
+  specifically the students will
+  be able to see their remaining
+  tuition balances.
+
+ </p>
+<h3 align="center"> Discount and Coupons Page</h3>
+ <p>
+  The discount and coupons
+  page is a page for ongoing
+  discounts and possible
+  coupons users can use on
+  the available food stalls in the
+  Mapua campus
+ </p>
+<h3 align="center"> Food Stall Page</h3>
+ <p>
+   The food stalls page is where
+  you can see the available food
+  stalls in your Mapua campus
+  where you can use your
+  MapuaCash app to pay for your
+  food.
+ </p>
+<h3 align="center"> Transaction Page</h3>
+ <p>
+   The transactions page serves
+   as a way for users to keep
+   track of their spendings using
+   the MapuaCash app.
+ </p>

@@ -91,7 +91,7 @@
  </p>
 <h3 align="center"> Food Stall Page</h3>
 <div align="center">
-  <img src="Assets/Food Stall.png" width="200">
+  <img src="Assets/Food Stalls.png" width="200">
 </div>
  <p>
    The food stalls page is where

@@ -10,7 +10,7 @@ The Developers create an app called Mapua Cash which helps the students to Pay t
 <h2 align="center"> Team ACCelerate</h2>
 
 <div align="center">
-  <span>Acebedo, Angela Coleen M.</span><br>
-  <span>Carballo, James Paul U.</span><br>
+  <span>Acebedo, Angela Coleen M. https://github.com/acAcebedo</span><br>
+  <span>Carballo, James Paul U. https://github.com/James43233</span><br>
   <span>Cata-al, JC-Rey V. https://github.com/jcr-ctl</span><br>
 </div>

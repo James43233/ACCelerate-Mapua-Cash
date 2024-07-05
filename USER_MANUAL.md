@@ -18,7 +18,7 @@ academic and personal success while attending Mapúa University.
 <br>
 <h1 align="center"> User-Interface and Instructions </h1>
 <p align="center">
-  <img src="Assets/proto1.png" width="50">
-  <img src="Assets/proto2.png" width="50">
-  <img src="Assets/proto3.png" width="50">
+  <img src="Assets/proto1.png" width="200">
+  <img src="Assets/proto2.png" width="200">
+  <img src="Assets/proto3.png" width="200">
 </p>

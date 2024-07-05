@@ -1,14 +1,13 @@
-<h2 align="center" style="font-family: Courier New, monospace;">ACCelerate Mapua Cash</h2>
-<p align="center">
-  <img src="Assets/Team Logo.png" width="100">
-  <img src="Assets/mapua_cash.png" width="100">
-</p>
-<p align="center">
-  The Developers create an app called Mapua Cash which helps the students to Pay tuition, Food Discounts, and Easy to use Online Cash.
-</p>
-<h2 align="center" margin-top="20">Team ACCelerate</h2>
+# ACCelerate Mapua Cash
+
+![Team Logo](Assets/Team%20Logo.png) ![Mapua Cash](Assets/mapua_cash.png)
+
+The Developers create an app called Mapua Cash which helps the students to Pay tuition, Food Discounts, and Easy to use Online Cash.
+
+## Team ACCelerate
+
 <div align="center">
-  <span>Acebedo, Angela Coleen M.</span>
-  <span>Carballo, James Paul U.</span>
-  <span>Cata-al, JC-Rey V.</span>
+  <span>Acebedo, Angela Coleen M.</span><br>
+  <span>Carballo, James Paul U.</span><br>
+  <span>Cata-al, JC-Rey V.</span><br>
 </div>

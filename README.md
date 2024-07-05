@@ -1,4 +1,4 @@
-<h2 align="center">ACCelerate Mapua Cash</h2>
+<h2 align="center" style="font-family: Courier New, monospace;">ACCelerate Mapua Cash</h2>
 <p align="center">
   <img src="Assets/Team Logo.png" width="100">
   <img src="Assets/mapua_cash.png" width="100">

@@ -14,3 +14,5 @@ The Developers create an app called Mapua Cash which helps the students to Pay t
   <span>Acebedo, Angela Coleen M. https://github.com/acAcebedo</span><br>
   <span>Cata-al, JC-Rey V. https://github.com/jcr-ctl</span><br>
 </div>
+
+<span>P.S This is James Paul U. Carballo owner of Portfolio and with the help of my partners developers, we successfuly create and app to help students and parents. </span>

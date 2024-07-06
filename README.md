@@ -15,4 +15,4 @@ The Developers create an app called Mapua Cash which helps the students to Pay t
   <span>Cata-al, JC-Rey V. https://github.com/jcr-ctl</span><br>
 </div>
 
-<span align="center">P.S This is James Paul U. Carballo owner of Portfolio and with the help of my partners developers, we successfuly create and app to help students and parents. </span>
+<p align="center">P.S This is James Paul U. Carballo owner of Portfolio and with the help of my partners developers, we successfuly create and app to help students and parents. </p>
